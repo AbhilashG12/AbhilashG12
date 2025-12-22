@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer who is open to work remotely<br>My preferred language is Typescript<br>I'm currently learning Rust<br>Interested in learning new things every day
+I'm a full stack developer, open to work remotely<br>Preferred language is Typescript<br>Currently builoding with Rust<br>Interested in learning new things every day
 
 
 ## 🌐 Socials:
