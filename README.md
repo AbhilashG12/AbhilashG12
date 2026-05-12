@@ -2,13 +2,16 @@
   
 # Abhilash Gandhamalla
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Full-stack+developer;TypeScript+%2F+Rust;Building+with+performance+in+mind" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-stack+TypeScript+developer;Rust+for+performance+%2F+systems;CLI+tools+%26+low-level+software" alt="Typing SVG" />
 
 </div>
 
 ## About
 
-Full-stack developer specializing in TypeScript and Rust. Focused on building scalable, performant applications. Open for remote work.
+**TypeScript** is my primary language for full-stack development — from React frontends to Node.js backends.  
+**Rust** is my choice for performance-critical software, CLI tools, and low-level systems programming.
+
+Open for remote work.
 
 ---
 
@@ -16,28 +19,26 @@ Full-stack developer specializing in TypeScript and Rust. Focused on building sc
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | TypeScript, Rust, JavaScript, Java, HTML/CSS, GraphQL |
-| **Frontend** | React, Next.js, TailwindCSS, DaisyUI, Three.js |
-| **Backend** | Node.js, Express, Apollo GraphQL, Kafka, Socket.io |
-| **Database** | PostgreSQL, Supabase, Prisma |
-| **Infra** | Docker, AWS, Cloudflare, Nginx |
+| **Primary** | TypeScript (full-stack), Rust (systems/CLI) |
+| **Also experienced with** | JavaScript, Java |
+| **Frontend** | React, Next.js, TanStack Query, Zustand, TailwindCSS, DaisyUI, Three.js |
+| **Backend** | Node.js, Express, Apollo GraphQL, Kafka, Socket.io, Redis |
+| **Database** | PostgreSQL, MongoDB, Supabase, Prisma |
+| **Infra & Tools** | Docker, AWS, Cloudflare, Nginx, Git |
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhilashG12&theme=onedark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashG12&theme=onedark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff" width="48%" />
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbhilashG12&show_icons=true&theme=tokyonight&hide_border=true)
+  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhilashG12&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbhilashG12&theme=tokyonight&hide_border=true)
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhilashG12&theme=onedark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" width="60%" />
-</div>
-
----
 
 ## Contact
 
