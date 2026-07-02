@@ -32,10 +32,6 @@ Open for remote work.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbhilashG12&show_icons=true&theme=tokyonight&hide_border=true)
-  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhilashG12&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbhilashG12&theme=tokyonight&hide_border=true)
 
 </div>
